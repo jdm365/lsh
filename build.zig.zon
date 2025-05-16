@@ -1,0 +1,13 @@
+.{
+    .name = .lsh,
+    .version = "0.0.0",
+    .fingerprint = 0xf9f7280925d2e947,
+    .minimum_zig_version = "0.15.0-dev.552+bc2f7c754",
+    .dependencies = .{},
+
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}
